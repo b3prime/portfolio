@@ -21,7 +21,7 @@
 - Assembled high-power workstations for forensic processing applications, coordinated sales to CIA, FBI, United States Secret Service, and Iraqi Department of the Interior
 - Used Solidworks to CAD custom cooling solutions, which increased rate of airflow and boosted system performance by 26%
 
-**Intern, First Reserve Corp. (_Aug 2023 - Mar 2024_)**
+**Intern, First Reserve Corp. (_May 2022 - Aug 2023_)**
 - Conducted researched on the autonomous pipeline pigging robotics market to evaluate for a potential roll-up
 - Modeled an LBO buyout to track IRR and MoIC on various performance cases
 - Consolidated information onto a memo and presented to senior management
