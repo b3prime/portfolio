@@ -23,7 +23,7 @@
 
 Six-cell voltage measurement, passive balancing, coulomb-counting SOC modelling, UV/OV protection, and bidirectional charge/discharge switching. Designed after self-studying BMS principles.
 
-![Electronic Speed Controller](/assets/bms.png)
+![Battery Management System](/assets/bms.png)
 
 ### 1300W Electronic Speed Controller
 
@@ -35,5 +35,5 @@ ESC to drive a 1300W, 36A Brushless DC Motor (BLDC). It utilizes a three-phase M
 
 3D-printed quadcopter for autonomous navigation testing. It uses an Arduino Uno for low-level motor control commands, and an Nvidia Jetson Nano for high-level navigation and communication functionality.
 
-![Electronic Speed Controller](/assets/drone.png)
+![Autonomous Quadcopter](/assets/drone.png)
 
