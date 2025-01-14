@@ -1,6 +1,6 @@
 # Electrical Engineer
 
-#### Technical Skills: Python, C++, Mixed-Signal Design, Altium Designer, Fusion360 CAD
+#### Technical Skills: Python, C++, Mixed-Signal Design, Altium Designer, Fusion360
 
 ## Education
 - B.S., Electrical Engineering | The University of Pennsylvania (_May 2027_)             		
@@ -22,7 +22,7 @@
 
 Developed as part of an electric skateboard personal project, this is an ESC to drive a 1300W, 36A BLDC. It utilizes a three-phase MOSFET inverter, ATMEGA328P commutation, FOC implementation, and USB to serial UART translation. 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/esc.jpg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
