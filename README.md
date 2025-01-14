@@ -18,15 +18,22 @@
 - Gained experience using oscilloscopes, multimeters, and lab-bench power supplies
 
 ## Projects
+
+### Six-Cell Battery Management System (BMS) PCBA
+
+Six-cell voltage measurement, passive balancing, coulomb-counting SOC modelling, UV/OV protection, and bidirectional charge/discharge switching. Designed after self-studying BMS principles.
+
+![Electronic Speed Controller](/assets/bms.png)
+
 ### 1300W Electronic Speed Controller
 
-Developed as part of an electric skateboard personal project, this is an ESC to drive a 1300W, 36A BLDC. It utilizes a three-phase MOSFET inverter, ATMEGA328P commutation, FOC implementation, and USB to serial UART translation. 
+ESC to drive a 1300W, 36A Brushless DC Motor (BLDC). It utilizes a three-phase MOSFET inverter, ATMEGA328P microcontroller, FOC implementation, and USB to serial UART translation for programming and bootloading.
 
-![EEG Band Discovery](/assets/esc.png)
+![Electronic Speed Controller](/assets/esc.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Autonomous Quadcopter
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+3D-printed quadcopter for autonomous navigation testing. It uses an Arduino Uno for low-level motor control commands, and an Nvidia Jetson Nano for high-level navigation and communication functionality.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Electronic Speed Controller](/assets/drone.png)
+
