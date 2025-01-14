@@ -1,6 +1,6 @@
 # Electrical Engineer
 
-#### Technical Skills: Python, C++, Mixed-Signal Design, Altium Designer, Fusion360, Tunnel Boring Machines, 
+#### Technical Skills: Python, C++, Mixed-Signal Design, Altium Designer, Fusion360, Tunnel Boring Machines
 
 ## Education
 - B.S., Electrical Engineering | The University of Pennsylvania (_May 2027_)             		
