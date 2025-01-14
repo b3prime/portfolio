@@ -17,6 +17,10 @@
 - Designed circuitry for subsystem communication using I2C, SPI, and CAN communication protocols
 - Gained experience using oscilloscopes, multimeters, and lab-bench power supplies
 
+**Computer Engineer, BitMindz (_Aug 2023 - Mar 2024_)**
+- Assembled high-power workstations for forensic processing applications, coordinated sales to CIA, FBI, United States Secret Service, and Iraqi Department of the Interior
+- Used Solidworks to CAD custom cooling solutions, which increased rate of airflow and boosted system performance by 26%
+
 ## Projects
 
 ### Six-Cell Battery Management System (BMS) PCBA
