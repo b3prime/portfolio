@@ -1,6 +1,6 @@
 # Electrical Engineer
 
-#### Highlighted Skills: Python, Mixed-Signal Design, Altium Designer, Fusion360, Power Electronics
+#### Highlighted Skills: Power Electronics, Python, Mixed-Signal PCBA Design, Altium Designer, Fusion360, ROS
 
 ## Education
 - B.S., Electrical Engineering | The University of Pennsylvania (_May 2027_)
