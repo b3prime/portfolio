@@ -13,7 +13,7 @@
 - Modeled TBM cutterhead using Fusion360 CAD software, used static stress FEA for bolt sizing
 - Presented team at the 2024 North American Tunneling (NAT) conference in Nashville, TN
 
-**Electrical Hardware Engineer, Penn Electric Racing (_Aug 2023 - Mar 2024_)**
+**Electrical Hardware Engineer, Penn Electric Racing (_Aug 2023 - May 2024_)**
 - Designed and routed high-voltage CCCV battery charger using Altium Designer to quintuple max current and improve charging characteristics
 - Designed and routed a Brake Sensor Plausibility Device (BSPD), which aggregates motor and brake sensor data to ensure nominal and safe car behavior
 - Gained hands-on experience using oscilloscopes, multimeters, and lab-bench power supplies
