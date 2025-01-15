@@ -3,7 +3,8 @@
 #### Highlighted Skills: Python, Mixed-Signal Design, Altium Designer, Fusion360, Power Electronics
 
 ## Education
-- B.S., Electrical Engineering | The University of Pennsylvania (_May 2027_)             		
+- B.S., Electrical Engineering | The University of Pennsylvania (_May 2027_)
+- High School | Staples High School (_May 2023_)              		
 
 ## Work Experience
 **Head of Electrical Controls, Penn Hyperloop (_Nov 2023 - Present_)**
