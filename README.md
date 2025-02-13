@@ -7,13 +7,19 @@
 - High School | Staples High School (_May 2023_)              		
 
 ## Work Experience
-**Head of Electrical Controls, Penn Hyperloop (_Aug 2023 - Dec 2024_)**
+**Undergraduate Researcher, KumarRobotics (_Jan 2025 - Present_)**
+- Joined the Distributed and Collaborative Systems and Technology (DCIST) team to develop hardware and software for swarm technology alongside the Army Research Laboratory
+- Leading development of a “brain in a box” that uses LiDAR, GPS, stereo cameras, IMU readings, and an on-board Linux machine for adaptable sensor fusion, data collection, and autonomy algorithm deployment for mid-size UGVs (~800lbs)
+- Developing skills in ROS, MATLAB, and Python (Numpy, Pandas) to design, simulate, and analyze multi-agent robotic systems
+
+
+**Head of Electrical Controls, Penn Hyperloop (_Aug 2023 - Jan 2025_)**
 - Worked with team to build half-meter diameter tunnel boring machine (TBM) and won the 2024 Not-A-Boring-Competition mini event
 - Developed state-based control system for the tunnel boring machine, using PLCs and VFDs to coordinate multi-parameter systems in a dynamic, GPS-denied environment
 - Modeled TBM cutterhead using Fusion360 CAD software, used static stress FEA for bolt sizing
 - Presented team at the 2024 North American Tunneling (NAT) conference in Nashville, TN
 
-**Electrical Hardware Engineer, Penn Electric Racing (_Aug 2023 - May 2024_)**
+**Electrical Hardware Engineer, Penn Electric Racing (_Aug 2023 - June 2024_)**
 - Designed and routed high-voltage CCCV battery charger using Altium Designer to quintuple max current and improve charging characteristics
 - Designed and routed a Brake Sensor Plausibility Device (BSPD), which aggregates motor and brake sensor data to ensure nominal and safe car behavior
 - Gained hands-on experience using oscilloscopes, multimeters, and lab-bench power supplies
